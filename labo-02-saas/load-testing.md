@@ -1,10 +1,10 @@
 # Load testing
 
-* [ ] Add htop to your Linux vm
+* [x] Add htop to your Linux vm
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Htop view</p></figcaption></figure>
+![image-20230512144936987](./assets/image-20230512144936987.png)
 
-* [ ] Add stress to your Linux vm and try to stress your cpu
+* [x] Add stress to your Linux vm and try to stress your cpu
 
 <!---->
 
@@ -12,11 +12,15 @@
 
 <!---->
 
-* [ ] In two ssh windows, stress your vm and observe the CPU load with htop
+* [x] In two ssh windows, stress your vm and observe the CPU load with htop
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Htop view with load on CPU</p></figcaption></figure>
+![image-20230512144109679](./assets/image-20230512144109679.png)
 
-* [ ] Observer the CPU peak on NewRelic
+![image-20230512144131411](./assets/image-20230512144131411.png)
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>CPU Peak on New Relic</p></figcaption></figure>
+* [x] Observer the CPU peak on NewRelic
+
+![image-20230512144222256](./assets/image-20230512144222256.png)
+
+
 
